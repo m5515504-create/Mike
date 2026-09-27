@@ -22,7 +22,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **1. Dickson 1991** (S13654). Piroxicam 0.5% gel vs oral ibuprofen 400 mg tid. n = 235. English. 
   - Title: A double-blind evaluation of topical piroxicam gel with oral ibuprofen in osteoarthritis of the knee (first author: Dickson, D.J.)
   - Link: https://scholar.google.com/scholar?q=A%20double-blind%20evaluation%20of%20topical%20piroxicam%20gel%20with%20oral%20ibuprofen%20in%20osteoarthritis%20of%20the%20knee
-  - Check: CSV sample_n=118 is one arm only; abstract states 235 randomised.
+  - **NOT RETRIEVED** → INCLUDE on abstract: eligibility is clear (double-blind RCT, knee OA, topical vs oral, 4 wk). Qualitative synthesis only; the abstract has no numbers ("no significant differences").
 - [ ] **2. Sandelin 1997** (S14932). Eltenac gel vs oral diclofenac vs placebo gel. n = 290. English. 
   - Title: Local NSAID gel (Eltenac) in the treatment of osteoarthritis of the knee: A double blind study comparing eltenac with oral diclofenac and placebo gel (first author: Sandelin, J.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/9310109/
@@ -44,6 +44,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **6. Doi 2010** (S10579). NSAID plasters vs oral NSAIDs (top-3 Japanese products in each arm). n = 165 analysed. English. 
   - Title: Effect of nonsteroidal anti-inflammatory drug plasters for knee osteoarthritis in Japanese: A randomized controlled trial (first author: Doi, T.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/19806426/
+  - Companion reports (same study, get only if they add data): S12587; S18936 (JPRN-C000000283 registration: patch NSAIDs vs top-3 oral NSAIDs)
   - Check: Class-level comparison (several products per arm); open-label -> RoB.
 - [ ] **7. Tiso 2010** (S04144). Oral ibuprofen vs topical 4% ibuprofen gel. n = 20 (per CSV). English. 
   - Title: Oral versus topical ibuprofen for chronic knee pain: A prospective randomized pilot study (first author: Tiso, R.L.)
@@ -52,7 +53,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **8. Conaghan 2013** (S20992). IDEA-033 ketoprofen (50/100 mg) vs TDT064 vehicle vs oral celecoxib 100 mg bid vs oral placebo. n = 1395. English. 
   - Title: A multicentre, randomized, placebo- and active-controlled trial comparing the efficacy and safety of topical ketoprofen in Transfersome gel (IDEA-033) with ketoprofen-free vehicle (TDT 064) and oral celecoxib for knee pain associated with osteoarthritis (first author: Conaghan, P.G.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/23542612/
-  - Companion reports (same study, get only if they add data): S21659 (EULAR 2013 abstract); S13479 (NCT00716547)
+  - Companion reports (same study, get only if they add data): S21659 (EULAR 2013 abstract); S13479 (NCT00716547); probably S19025/S19590 (EUCTR2006-006298-26, Diractin two doses vs celecoxib vs placebo)
   - Check: Largest trial. Has placebo arms.
 - [ ] **9. Mu 2016** (S18896). Loxoprofen hydrogel patch vs loxoprofen tablet. n = 169 (per 2013 abstract). English. 
   - Title: Efficacy and safety of loxoprofen hydrogel patch versus loxoprofen tablet in patients with knee osteoarthritis: a randomized controlled non-inferiority trial (first author: Mu, R.)
@@ -82,7 +83,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **13. Takagishi 1985 (MEN-OM)** (S18409). Ketoprofen 3% ointment vs oral ketoprofen 50 mg tid. n = 185. Japanese. 
   - Title: Clinical Evaluation of MEN-OM in the Treatment of Osteoarthritis of the Knee -A Double-Blind Comparative Study- (first author: TAKAGISHI, Naoto)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Evaluation%20of%20MEN-OM%20in%20the%20Treatment%20of%20Osteoarthritis%20of%20the%20Knee%20-A%20Double-Blind%20Comparative%20Study-
-  - Check: Authors call the oral arm an "active placebo" but it is full-dose oral ketoprofen: a genuine topical-vs-oral comparison.
+  - **NOT RETRIEVED** → INCLUDE on abstract: eligibility is clear. Qualitative synthesis + dichotomous outcomes from the English abstract (improvement 71/89 vs 65/94; patients with side effects 17/89 vs 27/94; drop-outs 7 vs 14).
 - [ ] **14. Tsuyama 1985 (L-141)** (S15553). L-141 NSAID ointment vs "FB" tablet (oral NSAID; confirm drug). n = 275. Japanese. 
   - Title: Clinical Evaluation of L-141 Ointment on Arthritis Deformans of Knee (first author: TSUYAMA, Naoichi)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Evaluation%20of%20L-141%20Ointment%20on%20Arthritis%20Deformans%20of%20Knee
@@ -90,7 +91,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **15. Ozgen 2011** (S12474). Diclofenac epolamine plaster (Flector) vs oral diclofenac SR vs no treatment. n = 28. Turkish. 
   - Title: Efficiency of local diclophenac treatment in knee osteoartritis (first author: Özgen, M.)
   - Link: https://scholar.google.com/scholar?q=Efficiency%20of%20local%20diclophenac%20treatment%20in%20knee%20osteoartritis
-  - Check: Very small.
+  - **NOT RETRIEVED** → Nothing to find: it is a CONFERENCE ABSTRACT (the abstract is the whole report). INCLUDE only if your protocol accepts conference abstracts; qualitative only (p-values, no means/SDs).
 - [ ] **16. Liu 2025** (S18337). Oral loxoprofen vs flurbiprofen gel patch vs ORAL+TOPICAL. n = 90. Chinese. 
   - Title: 口服洛索洛芬钠片联合氟比洛芬凝胶贴膏治疗膝骨关节炎的临床疗效与安全性研究 (first author: 刘娟)
   - Link: https://scholar.google.com/scholar?q=%E5%8F%A3%E6%9C%8D%E6%B4%9B%E7%B4%A2%E6%B4%9B%E8%8A%AC%E9%92%A0%E7%89%87%E8%81%94%E5%90%88%E6%B0%9F%E6%AF%94%E6%B4%9B%E8%8A%AC%E5%87%9D%E8%83%B6%E8%B4%B4%E8%86%8F%E6%B2%BB%E7%96%97%E8%86%9D%E9%AA%A8%E5%85%B3%E8%8A%82%E7%82%8E%E7%9A%84%E4%B8%B4%E5%BA%8A%E7%96%97%E6%95%88%E4%B8%8E%E5%AE%89%E5%85%A8%E6%80%A7%E7%A0%94%E7%A9%B6
@@ -98,7 +99,7 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **17. Kageyama 1986 (KPG-200)** (S11142). Ketoprofen ointment vs oral ketoprofen. n = unknown. Japanese. 
   - Title: Clinical Efficacy of KPG-200 (Ketoprofen Ointment) to Gonarthrosis: double-Blind Controlled Trials Using Oral Ketoprofen as Control (first author: Kageyama, T)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Efficacy%20of%20KPG-200%20%28Ketoprofen%20Ointment%29%20to%20Gonarthrosis%3A%20double-Blind%20Controlled%20Trials%20Using%20Oral%20Ketoprofen%20as%20Control
-  - Check: No abstract: confirm randomisation and data.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: possibly eligible (title: double-blind vs oral ketoprofen) but no abstract.
 - [ ] **18. Nagaya 1984** (S07754). Piroxicam gel vs piroxicam capsule. n = unknown. Japanese. 
   - Title: A Double Blind Comparative Study of Piroxicam Gel and Piroxicam Capsule in the Treatment of Osteoarthritis (first author: Nagaya, I)
   - Link: https://scholar.google.com/scholar?q=A%20Double%20Blind%20Comparative%20Study%20of%20Piroxicam%20Gel%20and%20Piroxicam%20Capsule%20in%20the%20Treatment%20of%20Osteoarthritis
@@ -122,15 +123,16 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **22. Dehghan 2019 (Thymus gel)** (S05874). Diclofenac 1% gel + oral celecoxib vs placebo gel + oral celecoxib (3rd arm: herbal gel - ignore). n = 120. English. 
   - Title: Comparative study of the effect of Thymus daenensis gel 5% and diclofenac in patients with knee osteoarthritis (first author: Dehghan, M.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/31124455/
+  - Companion reports (same study, get only if they add data): S19867 (IRCT2016112231025N1 registration)
   - Check: MISFILED as ANCHORED: every arm took oral celecoxib, so diclofenac gel vs placebo gel = combination vs oral alone.
 - [ ] **23. Dehghan 2018 (ginger jelly)** (S04875). Piroxicam jelly + oral diclofenac 100 mg/d vs placebo jelly + oral diclofenac (3rd arm: herbal - ignore). n = 120. English abstract. 
   - Title: Comparison the effects of ginger (Zingiber officinale) jelly and piroxicam jelly on pain of knee osteoarthritis (first author: Dehghan, M.)
   - Link: https://scholar.google.com/scholar?q=Comparison%20the%20effects%20of%20ginger%20%28Zingiber%20officinale%29%20jelly%20and%20piroxicam%20jelly%20on%20pain%20of%20knee%20osteoarthritis
-  - Check: MISFILED as ANCHORED (same logic as above). Check that allocation was truly randomised.
+  - **NOT RETRIEVED** → INCLUDE on abstract (combination node): randomly assigned, piroxicam jelly + oral diclofenac vs placebo jelly + oral diclofenac, 14 d. Qualitative only (p-values, no numbers).
 - [ ] **24. Sasaki 2021** (S16015). S-flurbiprofen plaster alone vs conventional oral + topical NSAIDs. n = 222. English. 
   - Title: Treatment Efficacy of Single Topical NSAID (S-Flurbiprofen Plaster) for Knee Symptoms and Locomotive Dysfunction in Knee Osteoarthritis Patients. (first author: Sasaki, Shizuka)
   - Link: https://pubmed.ncbi.nlm.nih.gov/34316523/
-  - Companion reports (same study, get only if they add data): possibly S24573 (jRCTs021180050 NEXT study) - confirm
+  - Companion reports (same study, get only if they add data): possibly S24573 (jRCTs021180050 NEXT study) - confirm; probably S18653 (UMIN000029709: LOQOA tape vs poultice + oral NSAID)
   - Check: Topical-vs-combination edge. If not randomised, move to NRSI or exclude.
 
 ---
@@ -182,44 +184,44 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **33. Hashimoto 2018** (S00867). HA injection + S-flurbiprofen plaster vs HA + oral NSAID vs HA alone. 
   - Title: Combination therapy of intra-articular hyaluronan injection and S-flurbiprofen plaster for knee osteoarthritis (first author: Hashimoto, S.)
   - Link: https://scholar.google.com/scholar?q=Combination%20therapy%20of%20intra-articular%20hyaluronan%20injection%20and%20S-flurbiprofen%20plaster%20for%20knee%20osteoarthritis
-  - Check: "Divided into three groups": randomisation not stated.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: randomisation not stated ("divided into three groups"); HA co-intervention. Unlikely eligible.
 - [ ] **34. Aoki 1990 (SR-318)** (S05437). SR-318 vs diclofenac tablets, double-blind, knee OA. 
   - Title: Clinical Evaluation of SR-318 on Osteoarthritis of Knee Joint: double Blind Comparative Study with Diclofenac Sodium Tablets (first author: Aoki, T)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Evaluation%20of%20SR-318%20on%20Osteoarthritis%20of%20Knee%20Joint%3A%20double%20Blind%20Comparative%20Study%20with%20Diclofenac%20Sodium%20Tablets
-  - Check: Unclear at T/A: is SR-318 topical? If yes -> P2.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: route of SR-318 unknown; no abstract.
 - [ ] **35. Miura 1987 (HKP-210)** (S07052). HKP-210 vs oral ketoprofen, double-blind, knee OA. 
   - Title: Clinical Evaluation of HKP-210 in Osteoarthritis of the Knee: a Double-Blind Comparison with Oral Ketoprofen (first author: MIURA, Takayuki)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Evaluation%20of%20HKP-210%20in%20Osteoarthritis%20of%20the%20Knee%3A%20a%20Double-Blind%20Comparison%20with%20Oral%20Ketoprofen
-  - Check: Unclear at T/A: is HKP-210 topical? If yes -> P2.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: possibly eligible (double-blind vs oral ketoprofen) if HKP-210 is topical; no abstract.
 - [ ] **36. Browning 1994** (S13555). Reduced oral NSAID + piroxicam gel vs usual oral NSAID, elderly OA. 
   - Title: Reducing the dose of oral NSAIDs by use of Feldene Gel: An open study in elderly patients with osteoarthritis (first author: Browning, R.C.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/10150264/
-  - Check: Open study; randomisation and knee unclear. PMID 10150264.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: open study, randomisation not stated, joint not stated. Unlikely eligible.
 - [ ] **37. Rau 1992** (S24647). Piroxicam ointment added to systemic therapy, activated gonarthrosis. 
   - Title: Therapy of activated gonarthrosis with piroxicam ointment: Significant completion of systemic therapy (first author: Rau, R.)
   - Link: https://scholar.google.com/scholar?q=Therapy%20of%20activated%20gonarthrosis%20with%20piroxicam%20ointment%3A%20Significant%20completion%20of%20systemic%20therapy
-  - Check: No abstract; possible combination design.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract. Low probability.
 - [ ] **38. Blumberger 1980** (S16115). Etofenamate gel to reduce oral antirheumatic dose. 
   - Title: Reduction of required dosage of antirheumatic agents by local use of etofenamate gel (first author: Blumberger, W.)
   - Link: https://scholar.google.com/scholar?q=Reduction%20of%20required%20dosage%20of%20antirheumatic%20agents%20by%20local%20use%20of%20etofenamate%20gel
-  - Check: No abstract; possible combination design.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract. Low probability.
 - [ ] **39. Aoki 1992 (BPAA)** (S05399). BPAA vs indomethacin patch. 
   - Title: Clinical Evaluation of BPAA on Osteoarthritis of the Knee: a Multicenter Comparative Study with Indomethacin Patch (first author: Aoki, T)
   - Link: https://scholar.google.com/scholar?q=Clinical%20Evaluation%20of%20BPAA%20on%20Osteoarthritis%20of%20the%20Knee%3A%20a%20Multicenter%20Comparative%20Study%20with%20Indomethacin%20Patch
-  - Check: Probably topical vs topical -> likely exclude.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: probably topical vs topical (BPAA = biphenylylacetic acid, i.e. felbinac). Unlikely eligible.
 - [ ] **40. Kurata 1997 (FO-726)** (S09693). FO-726 vs indomethacin cataplasm. 
   - Title: Clinical evaluation of FO-726 in osteoarthrosis: Clinical comparative study versus commercially available indomethacin cataplasm (first author: Kurata, K.)
   - Link: https://scholar.google.com/scholar?q=Clinical%20evaluation%20of%20FO-726%20in%20osteoarthrosis%3A%20Clinical%20comparative%20study%20versus%20commercially%20available%20indomethacin%20cataplasm
-  - Check: Probably topical vs topical -> likely exclude.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: comparator is a topical cataplasm; probably topical vs topical. Unlikely eligible.
 - [ ] **41. Bolten 1994** (S22478). Flurbiprofen LAT vs oral flurbiprofen/ibuprofen. 
   - Title: The pharmacokinetics, pharmacodynamics and comparative efficacy of flurbiprofen lat (first author: Bolten, W.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/7917798/
-  - Check: Probably a narrative summary -> likely exclude.
+  - **NOT RETRIEVED** → EXCLUDE on abstract: narrative review of flurbiprofen LAT (wrong publication type).
 - [ ] **42. Roth 1995 (diclofenac/hyaluronan gel)** (S00576). Diclofenac 3%/hyaluronan gel vs placebo gel in patients with uncontrolled pain on CHRONIC ORAL NSAIDs. n = 119. English. 
   - Title: A controlled clinical investigation of 3% diclofenac/2.5% sodium hyaluronate topical gel in the treatment of uncontrolled pain in chronic oral NSAID users with osteoarthritis (first author: Roth, S.H.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/8867642/
   - Companion reports (same study, get only if they add data): S14701 (RSM Round Table report)
-  - Check: Was Unclear/ANCHORED. If patients kept taking their oral NSAID and it is knee OA, this is topical+oral vs oral -> combination node.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: abstract does not say whether oral NSAIDs continued or which joint. Possibly a combination trial.
 - [ ] **43. Togo 2022** (S20244). Oral vs non-oral NSAID users (main comparison is age >=65 vs <65). n = 288,715. English. 
   - Title: Safety risk associated with use of nonsteroidal anti-inflammatory drugs in Japanese elderly compared with younger patients with osteoarthritis and/or chronic low back pain: A retrospective database study (first author: Togo, K.)
   - Link: https://pubmed.ncbi.nlm.nih.gov/34538031/
@@ -231,27 +233,27 @@ Registry-only records and excluded items are at the end (no download).
 - [ ] **45. Transdermal diclofenac multicentre trial (1987)** (S21573). Transdermal diclofenac; comparator unknown. 
   - Title: Transdermic application of diclofenac - Results of a multicenter trial (first author: Mucha, C.)
   - Link: https://scholar.google.com/scholar?q=Transdermic%20application%20of%20diclofenac%20-%20Results%20of%20a%20multicenter%20trial
-  - Check: Old/no-abstract Unclear record. Only retrieve to rule out a topical-vs-oral or topical+oral design; expect exclusion.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract (Mucha 1987, Med Welt). Low probability.
 - [ ] **46. Piroxicam gel in gonarthrosis (1993)** (S22576). Topical piroxicam gel; comparator unknown. 
   - Title: Efficacy and tolerance of piroxicam gel. Percutaneous nonsteroidal antirheumatic agents in the treatment of gonarthrosis (first author: Kullich, W.)
   - Link: https://scholar.google.com/scholar?q=Efficacy%20and%20tolerance%20of%20piroxicam%20gel.%20Percutaneous%20nonsteroidal%20antirheumatic%20agents%20in%20the%20treatment%20of%20gonarthrosis
-  - Check: Old/no-abstract Unclear record. Only retrieve to rule out a topical-vs-oral or topical+oral design; expect exclusion.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract (Kullich 1993). Low probability.
 - [ ] **47. Ketorolac gel 1% long-term (1993)** (S10571). Topical ketorolac, knee OA; comparator unknown. 
   - Title: Long-term efficacy of ketorolac Gel 1% in patients suffering from osteoarthritis of the knee (first author: Nadal, A)
   - Link: https://scholar.google.com/scholar?q=Long-term%20efficacy%20of%20ketorolac%20Gel%201%25%20in%20patients%20suffering%20from%20osteoarthritis%20of%20the%20knee
-  - Check: Old/no-abstract Unclear record. Only retrieve to rule out a topical-vs-oral or topical+oral design; expect exclusion.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract (Nadal 1993). Low probability.
 - [ ] **48. Diclo Duo spray (2010)** (S05441). Topical diclofenac spray; comparator unknown. 
   - Title: [Topical treatment with diclofenac with improved effect (Diclo Duo spray)]. (first author: Grazio S)
   - Link: https://pubmed.ncbi.nlm.nih.gov/21875024/
-  - Check: Old/no-abstract Unclear record. Only retrieve to rule out a topical-vs-oral or topical+oral design; expect exclusion.
+  - **NOT RETRIEVED** → AWAITING CLASSIFICATION: no abstract (Grazio 2010, Croatian); title suggests a narrative article. Low probability.
 - [ ] **49. TJR-candidate cohort with embedded NSAID randomisation (2011)** (S24478). NSAID randomisation incompletely described. 
   - Title: Clinical characteristics and medication use of patients with knee osteoarthritis selected for total joint replacement surgery (first author: De Boer, TN)
   - Link: https://scholar.google.com/scholar?q=Clinical%20characteristics%20and%20medication%20use%20of%20patients%20with%20knee%20osteoarthritis%20selected%20for%20total%20joint%20replacement%20surgery
-  - Check: Old/no-abstract Unclear record. Only retrieve to rule out a topical-vs-oral or topical+oral design; expect exclusion.
+  - **NOT RETRIEVED** → EXCLUDE on abstract: randomised oral NSAID vs no treatment; no topical arm (De Boer 2011, conference abstract).
 
 ---
 
-## NO DOWNLOAD - registry records (check registry for results) (13)
+## NO DOWNLOAD - registry records (check registry for results) (22)
 
 - **TDS-943 Pivotal I (NCT00546507)** (S17399): Topical diclofenac spray vs oral celecoxib vs placebo. No results in your records; not checked in registries or PubMed (tool failed). If still unpublished, report under reporting bias. https://clinicaltrials.gov/study/NCT00546507
 - **TDS-943 Pivotal II (NCT00546832)** (S18437): Topical diclofenac spray vs oral celecoxib vs placebo. As above. https://clinicaltrials.gov/study/NCT00546832
@@ -266,6 +268,15 @@ Registry-only records and excluded items are at the end (no download).
 - **X0002 spray phase 3 (NCT05324163)** (S06285): X0002 spray vs oral celecoxib vs placebo. As above. https://clinicaltrials.gov/study/NCT05324163
 - **Diclofenac sodium gel in knee OA (registry, 2007)** (S07217): Topical diclofenac gel, knee OA; comparator not stated. No trial ID in the record; search ClinicalTrials.gov by title to see the comparator and any results. https://scholar.google.com/scholar?q=Efficacy%20and%20safety%20of%20diclofenac%20sodium%20gel%20in%20knee%20osteoarthritis
 - **ORCA study (NCT04099459)** (S02379): Observational: OA and NSAID-associated risks. Registry only, no design detail; check whether it compares topical vs oral users. https://clinicaltrials.gov/study/NCT04099459
+- **ISRCTN40097939 (2012)** (S11913): Loxoprofen cataplasm + placebo tablet vs placebo cataplasm + loxoprofen tablet (double-dummy), 4 wk. Head-to-head. No publication in your records. https://trialsearch.who.int/Trial2.aspx?TrialID=ISRCTN40097939
+- **ChiCTR2200058374 (2022)** (S17179): Ibuprofen hydrochloride spray vs oral celecoxib vs placebo, phase III. Head-to-head. Same design and year as X0002 phase 3 (NCT05324163): probably the same trial, which would make X0002 an ibuprofen spray (unconfirmed). https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200058374
+- **ChiCTR2300075288 (2023)** (S18431): Flurbiprofen gel patch vs oral etoricoxib (knee and shoulder OA). Head-to-head; knee data would need to be separable. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300075288
+- **ITMCTR2025000961 (2025)** (S15124): Tuina vs diclofenac patch vs oral celecoxib. Diclofenac patch vs celecoxib arms are head-to-head. Probably ongoing. https://trialsearch.who.int/Trial2.aspx?TrialID=ITMCTR2025000961
+- **ChiCTR2400092881 (2024)** (S12062): Ketoprofen cataplasm vs oral NSAIDs vs both. Head-to-head + combination. Probably ongoing. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2400092881
+- **ChiCTR2400091706 (2024)** (S14421): Ketoprofen cataplasm vs celecoxib vs both. Head-to-head + combination; OA site to confirm. Probably ongoing. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2400091706
+- **ChiCTR2100048260 (2021)** (S21035): Flurbiprofen patch + celecoxib vs placebo patch + celecoxib. Combination vs oral. No publication in your records. https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2100048260
+- **IRCT2017092710222N14 (2017)** (S02952): Diclofenac gel + celecoxib vs placebo gel + celecoxib (3rd arm Tanacetum gel). Combination vs oral (same design family as Dehghan 2019). No publication in your records. https://trialsearch.who.int/Trial2.aspx?TrialID=IRCT2017092710222N14
+- **IRCT2017103037093N1 (2017)** (S23283): Diclofenac gel + celecoxib vs placebo gel + celecoxib (3rd arm chicory gel). Combination vs oral. No publication in your records. https://trialsearch.who.int/Trial2.aspx?TrialID=IRCT2017103037093N1
 
 ---
 

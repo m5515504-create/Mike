@@ -181,3 +181,9 @@ A scan of all 25,280 excluded records for topical + oral + knee terms found **no
 4. Check the 13 registry records for posted results and publications.
 5. Hand-search the reference lists of the included studies and of the 7 reference MAs. Their head-to-head trials are already all in your list, so expect little.
 6. Only then fix the qualitative-synthesis number and pick the trials that go into each meta-analysis.
+
+---
+
+## 12. Update: 20 studies could not be retrieved
+
+29 of the 49 were retrieved. For what that means for the review (4 included on abstract, 2 excluded on abstract, 14 awaiting classification, plus the registered-but-unpublished trials), see **`Review_Without_Missing_Studies.md`**. `Download_List.csv` now has "Retrieval status" and "Classification now" columns.
