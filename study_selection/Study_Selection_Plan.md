@@ -2,22 +2,28 @@
 
 **Review:** Topical versus oral NSAIDs for symptomatic knee OA, with an exploratory network node for concurrent topical-plus-oral therapy
 **Inputs:** `Included_Studies_Ranked_Deduped.csv` (312 records), the screening workbook (25,845 records), and 7 reference meta-analyses (MAs)
-**Files in this folder:** `Download_List.csv` (what to download), `Record_Map_312.csv` (what happens to each of the 312 records, for the PRISMA flow diagram), `Reference_MAs.csv`, and `Study_Selection.xlsx` (all three as sheets)
+**Files in this folder:** `Download_Batches.md` (the batch-by-batch download checklist), `Download_List.csv` (same list with every detail), `Record_Map_312.csv` (what happens to each of the 312 records, for the PRISMA flow diagram), `Reference_MAs.csv`, and `Study_Selection.xlsx` (one sheet per batch with columns for your full-text decisions, plus the other tables)
 
 ---
 
 ## 1. Bottom line
 
-| What | Studies | Download? |
-|---|---|---|
-| **Primary MA: head-to-head topical vs oral RCTs** | **18 candidates** (10 used by the reference MAs + 8 found only by your search) | Yes |
-| Exploratory combination node (topical + oral) | 6 more studies (Simon 2009 and Liu 2025 also add combination arms) | Yes |
-| Non-randomised safety stream (NRSI) | 7 candidates | Yes |
-| Retrieve only to confirm eligibility | 10 | Check, most will be excluded |
-| Registry-only records (no paper) | 8 | No, just check the registry for results |
-| ANCHORED stream (NSAID vs placebo only) | 266 records | **No: set aside by protocol amendment** |
+The unit is the **study**. Companion reports (abstracts, registry entries, re-analyses) are listed under their study and never counted separately.
 
-So you download about **31 papers instead of 312**. The primary meta-analysis will probably end with **about 12 to 16 trials** after full-text screening (my estimate, not a fact). That is in line with the reference MAs (7 to 8 head-to-head trials). Yours is a little larger because your search also found non-English trials and trials published after those reviews.
+| Batch | What | Studies to download | Expected in qualitative synthesis* |
+|---|---|---|---|
+| 1 | Head-to-head topical vs oral RCTs already used by the reference MAs | 10 | 9–10 |
+| 2 | Head-to-head RCTs found only by your search | 8 | 5–8 |
+| 3 | Combination-node trials (topical + oral vs monotherapy) | 6 | 4–6 |
+| 4 | Non-randomised safety studies (NRSI) | 7 | 3–6 |
+| 5 | Unclear: retrieve only to decide eligibility | 18 | 0–3 |
+| | **Total** | **49** | **about 22–32** |
+| — | Registry-only records (no paper) | 13 | check registries only |
+| — | ANCHORED stream (NSAID vs placebo/vehicle only) | 265 records | **not downloaded: set aside by protocol amendment** |
+
+\*Estimates, not facts; full-text screening decides.
+
+**From qualitative synthesis to meta-analysis (estimate):** pairwise topical vs oral about 12–16 trials (Batches 1–2); exploratory network about 18–24 trials (Batches 1–3); NRSI pooled only if at least 2 studies report the same outcome, otherwise described narratively.
 
 ---
 
@@ -58,7 +64,7 @@ What this shows:
 | 1 | **Protocol amendment:** drop the ANCHORED stream (placebo/vehicle-only trials). The network is built only from trials that randomise at least two of {topical, oral, topical + oral}; their placebo arms stay in. | 46 (44 + 2 reclassified, see Step 2) |
 | 2 | **Fix misfiled records:** Dehghan 2019 and Dehghan 2018 were tagged ANCHORED, but *every* arm took an oral NSAID, so "NSAID gel vs placebo gel" is really **combination vs oral alone**. Move them to COMBINATION. | 46 |
 | 3 | **Collapse records into studies:** merge conference abstracts, registry entries and pooled re-analyses into their parent trial. Never count the Roth & Fuller pooled analyses as separate studies; Zeng 2021 also excluded pooled analyses. | about 35 study entities |
-| 4 | **Registry stubs with no results:** do not download; check the registries for posted results and list them as ongoing or unpublished (this feeds your reporting-bias assessment). | about 31 studies to download + 10 to check |
+| 4 | **Registry stubs with no results:** do not download; check the registries for posted results and list them as ongoing or unpublished (this feeds your reporting-bias assessment). | 31 studies to download + 18 to check (after the re-check in section 11) |
 | 5 | **Full-text screening** (your normal eligibility criteria) | probably 12–16 primary + 6–8 combination + 4–6 NRSI |
 
 ---
@@ -154,3 +160,24 @@ A scan of all 25,280 excluded records for topical + oral + knee terms found **no
 - **Inferences (check at full text):** that NCT00108992 is Simon 2009's registration, that NCT00317733 relates to Rother 2007, and that jRCTs021180050 is Sasaki 2021's registration; the identity of the "L-141" and "FB" drugs; the expected final count of 12–16.
 - **Not verified:** whether a full paper of Rother/Yeoman/Ekman 2013 or results of the TDS-943 trials exist. The PubMed tool failed during this session, so search ClinicalTrials.gov (NCT00211549, NCT00546507, NCT00546832) manually.
 - These decisions draft Reviewer 1's work. Under your protocol they still need the second reviewer's agreement.
+
+---
+
+## 11. Re-check: is 31 right, and are we done?
+
+**31 is the number of studies with a real chance of inclusion (Batches 1–4). The complete download list is 49**, because your protocol sends every Unclear record to full text (Batch 5). I re-checked everything I had not opened the first time:
+
+| What I checked | Result |
+|---|---|
+| All 51 records with no stream assigned (Unclear) | 43 are single oral drugs, topical vs topical, topical vs placebo, non-NSAIDs, NSAIDs with co-interventions, or non-knee populations (ANCHORED at most → set aside). 6 old no-abstract records could still hide a topical-vs-oral design → Batch 5 "low probability". 2 are registry-only (ORCA cohort; a 2007 knee-OA diclofenac gel record with no comparator stated) → registry check. |
+| 36 DIRECT-tagged exclusions | All correct: oral vs oral, hip only, spine, TMJ or myalgia. |
+| 13 NRSI-tagged exclusions | 1 wrongly reasoned: **Togo 2022** (Japanese cohort, oral vs non-oral NSAIDs) was excluded for "no placebo", which does not apply to cohorts → Batch 5. The rest are correct. |
+| Abstracts of all 438 ANCHORED Include/Unclear records (for any oral NSAID given alongside a topical one) | **Roth 1995** (diclofenac gel in chronic oral-NSAID users) → Batch 5. **IRCT20170929036477N2** (diclofenac gel + celecoxib vs placebo gel + celecoxib, registry only) → registry check. **X0002 spray** phase 2 and 3 (vs oral ibuprofen/celecoxib; the drug is unidentified) → registry check. Everything else only allows rescue painkillers or mentions oral NSAIDs in the background text. |
+
+**Are we done?** Deciding *what to download*: yes, after these corrections. The review itself: no. Next steps, in order:
+1. File the protocol amendment (section 7) before full-text screening.
+2. Download Batches 1–5 (tick them off in `Download_Batches.md`).
+3. Full-text screening by two reviewers, recording a reason for every exclusion (the batch sheets in the workbook have columns for this).
+4. Check the 13 registry records for posted results and publications.
+5. Hand-search the reference lists of the included studies and of the 7 reference MAs. Their head-to-head trials are already all in your list, so expect little.
+6. Only then fix the qualitative-synthesis number and pick the trials that go into each meta-analysis.
